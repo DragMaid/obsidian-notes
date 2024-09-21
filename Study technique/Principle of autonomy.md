@@ -1,0 +1,1 @@
+Each note should be autonomous, meaning it should be self-contained and comprehensible on its own.
