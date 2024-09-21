@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "f797271473c2ad7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3045cc9a6e6021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7a043f27b66b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JCU courses/CP1402 - Network fundamentals/Week 2/Multiplexing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b7a178930f63ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python/PEP8 - Style guide for python code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f494896df98d2a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS teaching/Speaking/Linear thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37a122ebe8d6fa42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS teaching/Speaking/speak in structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cfa25dc8fc3a75d",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ddcc69812317c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63756db0f20aae3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30ccd564aa4765c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bad4548eb16056c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "7b3781ef779c0212",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5211f180905380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321b7b6ae271ca4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IELTS teaching/Speaking/speak in structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83050e9bc4d77450",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IELTS teaching/Speaking/speak in structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2e14dca932bc2de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0ead352ecbaa2fa1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IELTS teaching/Speaking/speak in structure.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37a122ebe8d6fa42",
+  "lastOpenFiles": [
+    "IELTS teaching/Speaking/Speaking 5.0.md",
+    "Designing/The 10 Usability Heuristics (encouragement to be curious).md",
+    "Assets/Pasted image 20240920145719.png",
+    "Designing/Definition of \"Good\" UX.md",
+    "Assets/Pasted image 20240920145558.png",
+    "Designing/Overview.md",
+    "Designing/The Product Development Life Cycle.md",
+    "Assets/Pasted image 20240920144915.png",
+    "Designing/The Double Diamond Model.md",
+    "ace2b800ff02595c0013 (ll1) (1).jpg.md",
+    "Assets/Pasted image 20240920142846.png",
+    "Assets/Pasted image 20240920142630.png",
+    "Assets/Pasted image 20240920142437.png",
+    "notes/dailies",
+    "notes",
+    "JCU courses/CP1402 - Network fundamentals/Week 2/Internet Protocol (IP).md",
+    "Designing",
+    "Programming/Python/PEP8 - Style guide for python code.md",
+    "JCU courses/CP1401 - Programming/Naming variables.md",
+    "Programming/Python",
+    "Assets/Pasted image 20240920112509.png",
+    "JCU courses/CP1401 - Programming/Operator Precedence.md",
+    "JCU courses/CP1401 - Programming/Problem solving and Designs.md",
+    "JCU courses/CP1401 - Programming/Basic concepts.md",
+    "JCU courses/CP1402 - Network fundamentals/Week 2/Multiplexing.md",
+    "IELTS teaching/Speaking/speak in structure.md",
+    "Assets/ace2b800ff02595c0013 (1) (1).jpg",
+    "Assets/ace2b800ff02595c0013.jpg",
+    "Assets/Pasted image 20240919150637.png",
+    "IELTS teaching/Speaking/Linear thinking.md",
+    "JCU courses/CP1402 - Network fundamentals/Week 1/Network Hardware.md",
+    "JCU courses/CP1406/Overview to CP1406.md",
+    "JCU courses/CP1406",
+    "IELTS teaching/Writing/Cách chấm bài.md",
+    "IELTS teaching/Writing/Outline for assignment structure.md",
+    "IELTS teaching/Writing/How to connect sentences.md",
+    "IELTS teaching/Writing/How to always write correct sentence.md",
+    "IELTS teaching/Writing/How to improve sentence.md",
+    "IELTS teaching/Writing/Full assignment structure.md",
+    "JCU courses/CP1402 - Network fundamentals/Week 1/Network Diagrams and Labelling.md",
+    "JCU courses/CP1402 - Network fundamentals/Week 2",
+    "JCU courses/CP1402 - Network fundamentals/Week 1",
+    "IELTS teaching/Speaking",
+    "IELTS teaching/Writing",
+    "IELTS teaching",
+    "Untitled.canvas"
+  ]
+}
