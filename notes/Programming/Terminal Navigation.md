@@ -1,0 +1,7 @@
+1. Move cursor to beginning of line (CTRL + A)
+2. Move cursor to end of line (CTRL + E)
+3. One word forward (Alt + F)
+4. One word backward (Alt + B)
+5. Remove everything from cursor position the beginning of line (CTRL + U)
+6. Remove everything from cursor to position to the end of the line ( CTRL + K)
+7. Delete one word backward (CTRL + W)
