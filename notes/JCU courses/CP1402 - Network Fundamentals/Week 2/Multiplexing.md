@@ -1,3 +1,12 @@
+---
+date: 2024-09-23
+location:
+  - JCU courses/CP1402 - Network Fundametals/Week 2
+hubs:
+  - "[[networking]]"
+urls:
+---
+
 # Definition of multiplexing
 + Multiplexing, or _muxing_, is a way of sending multiple [signals](https://www.techtarget.com/searchnetworking/definition/signal) or streams of information over a communications link at the same time in the form of a single, complex signal. When the signal reaches its destination, a process called _[[Demultiplexing]], or demuxing, recovers the separate signals and outputs them to individual lines.
 + Allow multiple signals to travel simultaneously over one medium

@@ -1,5 +1,6 @@
 ![[Pasted image 20240919145406.png]]
 
+
 # Focus on the goal of the website
 ![[Pasted image 20240919145558.png]]
 WHY -> WHAT -> HOW
@@ -11,3 +12,6 @@ WHY -> WHAT -> HOW
 ![[Pasted image 20240919150412.png]]
 ![[Pasted image 20240919150637.png]]
 ![[Pasted image 20240919150700.png]]
+
+![[Pasted image 20240926141337.png]]
+

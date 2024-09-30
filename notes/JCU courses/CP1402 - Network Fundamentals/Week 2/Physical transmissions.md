@@ -1,3 +1,12 @@
+---
+date: 2024-09-23
+location:
+  - JCU courses/CP1402 - Network Fundametals/Week 2
+hubs:
+  - "[[networking]]"
+urls:
+---
+
 # Frequency, Bandwidth, Throughput
 + Frequency -> measured in MHz or GHz -> number of times in 1 sec that an electrical signal can change state
 + Bandwidth -> amount of data transmitted in period of time
