@@ -1,7 +1,7 @@
 ---
 date: "2024-09-27"
 location: 
-    - JCU courses/CP1402 - Network Fundametals
+    - JCU courses/CP1402 - Network Fundamentals
 hubs: 
     - "[[networking|Networking]]"
 urls:
