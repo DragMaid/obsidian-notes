@@ -10,23 +10,23 @@ urls:
 
 # network infrastructure
 
-# Components of strucutred cabling
+# Components of structured cabling
 + ANSI/TIA-568 Commercial Building Wiring Standard
--> optmize way to install cables, maximize performance, minimize upkeep (maintenance fee)
+-> optimized way to install cables, maximize performance, minimize upkeep (maintenance fee)
 ![[Pasted image 20240925141424.png]]
 
 # From [[Demarc]] to a workstation
 ![[Pasted image 20240925141516.png]]
-+ Entrence facility - Building A:
++ Entrance facility - Building A:
     + MDF (main distribution frame) - where all LANs ans WANs are connected (center)
-    + Data room - enclosed space -> hold network equipments
-    + Rack - hold the network equiments
-    + [[2024-09-25_patch-pannel|pactch panel]]] - be mounted on wall or rack
+    + Data room - enclosed space -> hold network equipment
+    + Rack - hold the network equipment
+    + [[2024-09-25_patch-pannel|pactch panel]] - be mounted on wall or rack
 
-+ One of DRs may contain [[2024-09-25_VoIP]] equipments
++ One of DRs may contain [[2024-09-25_VoIP]] equipment
 
 + Data room - Building B:
-    + IDF (intermidiate distribution frame) - similar to MDF but on a smaller scale (secondary hub)
+    + IDF (intermediate distribution frame) - similar to MDF but on a smaller scale (secondary hub)
     acts as a bridge that connect MDF to local workstations
 
 + Work Areas all three buildings:

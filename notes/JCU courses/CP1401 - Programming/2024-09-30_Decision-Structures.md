@@ -1,11 +1,10 @@
 ---
-date: "2024-09-30"
-location: 
+date: 2024-09-30
+location:
   - JCU courses/CP1401 - Programming/
-hubs: 
-    - "[[programming|Programming]]"
+hubs:
+  - "[[programming]]"
 urls:
-    - 
 ---
 
 # Decision Structures

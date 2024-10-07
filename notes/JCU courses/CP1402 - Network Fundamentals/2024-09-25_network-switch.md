@@ -11,4 +11,4 @@ urls:
 # network switch
 # Network switch definition
 > A device that actively filter and redirect information to desired destination
-> internet -> modem -> router -> switch -> connected with mutiple devices
+> internet -> modem -> router -> switch -> connected with multiple devices

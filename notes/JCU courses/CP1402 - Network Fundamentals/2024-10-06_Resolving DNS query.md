@@ -10,20 +10,19 @@ urls:
 
 # Resolving DNS query
 ![[Pasted image 20241006153605.png]]
-+ local client -> local DNS resolver -> root DNS resolver -> TDL resolver for .edu -> resolver for mdc.edu
++ local client -> local DNS resolver -> root DNS resolver -> TLD resolver for .edu -> resolver for mdc.edu
 => Just like asking for direction -> you ask from the big bois -> to the smaller people in the neighborhood -> till you get
 to your final destination
 
 + Resolution process
-    + Caching server != authoriative server ->  only resolve local clients
+    + Caching server != authoritative server ->  only resolve local clients
     + Nameservers within company -> may not have access to root servers
-    + TLD name server might be aware of itermidiate nameserver (in between) rather than authoriative name server (ask many people
+    + TLD name server might be aware of intermediate nameserver (in between) rather than authoritative name server (ask many people
     for a person house address -> not just that person himself)
 
 # Two types of DNS requests
 + Recursive lookup - spam message when you can't find the other person house address (demand an answer)
-+ Iterative lookup - local servers issue queries to other servers (ask around wide area of neighborhood
-=> does not demand an answer (only answer if they know))
++ Iterative lookup - local servers issue queries to other servers (ask around wide area of neighborhood => does not demand an answer (only answer if they know))
 
 # Resource Records in a DNS Database
 + Many types of records -> kept in DNS database: 

@@ -1,11 +1,10 @@
 ---
-date: "2024-09-26"
-location: 
-  - JCU courses/CP1402 - Network Fundamentalss
-hubs: 
-    - "[[networking]]"
+date: 2024-09-26
+location:
+  - JCU courses/CP1402 - Network Fundamentals
+hubs:
+  - "[[networking]]"
 urls:
-    - 
 ---
 
 # Carrier Sense Multiple Access (CSMA)
@@ -16,8 +15,7 @@ urls:
 
 # How does CSMA/CD work
 1. Check if sender is ready to transmit data packets
-2. Check if transmission link is idle (no other device is currently occupying tunnel) -> sends
-dummy data -> check for any collision signal -> decide activity of transmission link
+2. Check if transmission link is idle (no other device is currently occupying tunnel) -> sends dummy data -> check for any collision signal -> decide activity of transmission link
 3. Transmission & collision checking -> if during transmission -> collision detected
 -> stop transmitting -> wait random time interval -> restart from step 1
 4. If no problem -> completes frame transmission -> resets the counter

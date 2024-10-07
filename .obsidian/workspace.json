@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc0a487058738e7",
+        "id": "6b34e23bdd547f50",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6b6b3eb4097667",
+            "id": "802bbb098d80dd28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hubs/networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75c66f35f626c74b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hubs/networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hubs/networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hubs/networking.md"
+              }
             }
           }
         ],
@@ -139,34 +159,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6b6b3eb4097667",
+  "active": "802bbb098d80dd28",
   "lastOpenFiles": [
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-02_Demarc.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Switches.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_physical bus topology.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Binary.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Ethernet.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Carrier Sense Multiple Access (CSMA).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_2024-09-23_Media access control (MAC).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_VoIP.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet-mask.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_patch-pannel.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_network-switch.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_network-infrastructure.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Physical transmissions.md",
     "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Multiplexing.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Logical link control (LLC).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Internet Protocol (IP).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Demultiplexing.md",
+    "hubs/networking.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Physical transmissions.md",
+    "inbox/2024-10-07_Address-Resolution-Protocol-(ARP).md",
+    "Assets/Pasted image 20241007105023.png",
+    "inbox/2024-10-07_Cross-over-Cables.md",
+    "inbox/2024-10-07_Internet-Control-Message-Protocal-(ICMP).md",
+    "Assets/Pasted image 20241007100746.png",
+    "inbox/2024-10-07_Straight-through-Cables.md",
+    "Assets/Pasted image 20241007100733.png",
+    "Assets/Pasted image 20241007100708.png",
+    "Assets/Pasted image 20241007100645.png",
+    "Untitled.md",
+    "inbox/2024-10-07_Cross-over-Cables.md~",
+    "Assets/Pasted image 20241007100433.png",
+    "inbox/2024-10-07_Digital-Signals.md",
+    "inbox/2024-10-07_Analog-Signals.md~",
+    "Assets/Pasted image 20241007094404.png",
+    "inbox/2024-10-07_Analog-Signals.md",
+    "Assets/Pasted image 20241007093457.png",
+    "Assets/Pasted image 20241007093249.png",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_Resolving DNS query.md",
+    "cladding.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_socket.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_Uniform resource locator (URL).md",
     "notes/JCU courses/CP1402 - Network Fundamentals/Cooper and fiber wires.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-24_CP1402-revision.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-23_Safety-and-Troubleshooting.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Network Models.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Network Hardware.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Network Diagrams and Labelling.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Basic of draw.io and labeling concepts.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Demultiplexing.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Multiplexing.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Internet Protocol (IP).md",
+    "IPv4.md",
+    "NIC.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Logical link control (LLC).md",
+    "Assets/Pasted image 20240918133753.png",
+    "repeater.md",
+    "hubs/social.md",
+    "hubs/programming.md",
+    "hubs/self-development.md",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 3",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 2",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals",
@@ -175,18 +206,6 @@
     "notes/JCU courses/CP1402 - Network Fundametals",
     "inbox/2024-10-02_Demarc.md~",
     "inbox/2024-10-06_Name servers.md~",
-    "inbox/2024-10-06_Resolving DNS query.md~",
-    "Assets/Pasted image 20241006153605.png",
-    "Assets/Pasted image 20241006153412.png",
-    "Assets/Pasted image 20241006153231.png",
-    "inbox/2024-10-06_Uniform resource locator (URL).md~",
-    "Assets/Pasted image 20241006113113.png",
-    "Assets/Pasted image 20241006112834.png",
-    "Assets/Pasted image 20241006111103.png",
-    "Assets/Pasted image 20241004140246.png",
-    "Assets/Pasted image 20241001122743.png",
-    "Assets/Pasted image 20240930165827.png",
-    "Assets/Pasted image 20240930165612.png",
     "Untitled.canvas"
   ]
 }

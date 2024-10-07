@@ -1,7 +1,7 @@
 ---
 date: 2024-09-23
 location:
-  - JCU courses/CP1402 - Network Fundamentalss
+  - JCU courses/CP1402 - Network Fundamentals
 hubs:
   - "[[networking]]"
 urls:
@@ -11,12 +11,12 @@ urls:
 + 7 layered
 + categorize layers of communication
 + Separates to understand and simplify
-+ Interpretation IRL: post office (browser) -> local post office center ([[OS-Operating System]]) -> local post van(local hardware) ->  destined area post van (recieving end hardware) -> their house (their operating system) -> web-server(recieved)
++ Interpretation IRL: post office (browser) -> local post office center ([[OS-Operating System]]) -> local post van(local hardware) ->  destined area post van (receiving end hardware) -> their house (their operating system) -> web-server(received)
 ![[Pasted image 20240918133636.png]]
 
 # The seven-layer OSI model
 ![[Pasted image 20240918133753.png]]
-Ethernet, wifi card (hardware) -> TCP/UDP and IP,...(network protocol) [[1727070827-KNYI|OS-Operating System]] -> HTTP,SMTP,FTP (embeded protocols of OS) -> web-browser, email, FTP (application layer)
+Ethernet, WiFi card (hardware) -> TCP/UDP and IP,...(network protocol) [[1727070827-KNYI|OS-Operating System]] -> HTTP,SMTP,FTP (embedded protocols of OS) -> web-browser, email, FTP (application layer)
 
 ## Physical layer :
 
@@ -25,7 +25,7 @@ Ethernet, wifi card (hardware) -> TCP/UDP and IP,...(network protocol) [[1727070
 ---
 
 ==Rewrite==
-+ closest to machine (hardware) -> transfer computer bitwise -> to destined hardware end-point 
++ closest to machine (hardware) -> transfer computer bit-wise -> to destined hardware end-point 
 + E.g: network hubs / adapter / modems, repeaters, ...
 
 # Data link layer
@@ -34,7 +34,7 @@ Ethernet, wifi card (hardware) -> TCP/UDP and IP,...(network protocol) [[1727070
 	1. [[2024-09-23_Media access control (MAC)]] -> flow control and [[Multiplexing]] -> acts like IP locally (distinction is that MAC verify device's physical address while IP for for device's network connection)
 	2. [[Logical link control (LLC)]] -> flow / error control over physical medium and identifies line protocols
 + Protocols at these layers are programmed into firmware of [[NIC]] and other hardware
-+ Type of network hardware-> determine DLL layer protocol used
++ Type of network hardware -> determine DLL layer protocol used
 ![[Pasted image 20240918141952.png]]
 
 # Network layer
@@ -50,7 +50,7 @@ Ethernet, wifi card (hardware) -> TCP/UDP and IP,...(network protocol) [[1727070
 ![[Pasted image 20240918141246.png]]
 
 # Session layer
-+ The session layer controls the conversations between different computers. A session or connection between machines is set up, managed. Session layer services also include authentication and reconnection. (e.g SSH connections -> expiration -> authentication)
++ The session layer controls the conversations between different computers. A session or connection between machines is set up, managed. Session layer services also include authentication and re-connection. (e.g SSH connections -> expiration -> authentication)
 + Describes how data can be synced and recovered if messages don't arrive intact (packet loss)
 
 # Presentation layer
