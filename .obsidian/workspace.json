@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b34e23bdd547f50",
+        "id": "ccc0a487058738e7",
         "type": "tabs",
         "children": [
           {
-            "id": "802bbb098d80dd28",
+            "id": "3a6b6b3eb4097667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hubs/networking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75c66f35f626c74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
+                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hubs/networking.md",
+                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hubs/networking.md",
+                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hubs/networking.md"
+                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md"
               }
             }
           }
@@ -159,53 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802bbb098d80dd28",
+  "active": "3a6b6b3eb4097667",
   "lastOpenFiles": [
-    "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
+    "notes/IELTS teaching/Writing/6.5/Chấm bài 6.5.md",
+    "notes/IELTS teaching/Writing/6.5",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Overview.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive",
+    "hubs/teaching.md",
+    "Assets/Pasted image 20241008180025.png",
+    "Assets/Pasted image 20241008180016.png",
+    "Assets/Pasted image 20241008180006.png",
+    "Assets/Pasted image 20241008175952.png",
+    "Assets/Pasted image 20241008175941.png",
+    "Assets/Pasted image 20241008175924.png",
+    "Assets/Pasted image 20241008175913.png",
+    "Assets/Pasted image 20241008175903.png",
+    "Assets/Pasted image 20241007204056.png",
+    "Assets/Pasted image 20241007203713.png",
+    "notes/JCU courses/CP1402 - Network Fundamentals/Table of Content.md",
+    "inbox/2024-10-07_Straight-through-Cables.md",
+    "inbox/2024-10-07_Internet-Control-Message-Protocal-(ICMP).md",
+    "inbox/2024-10-07_Digital-Signals.md",
+    "inbox/2024-10-07_Cross-over-Cables.md",
+    "inbox/2024-10-07_Analog-Signals.md",
+    "inbox/2024-10-07_Address-Resolution-Protocol-(ARP).md",
+    "inbox",
+    "notes/IELTS teaching/Writing/Cách chấm bài.md",
+    "notes/IELTS teaching/Speaking/Linear thinking.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Untitled",
     "hubs/networking.md",
     "notes/JCU courses/CP1402 - Network Fundamentals/Physical transmissions.md",
-    "inbox/2024-10-07_Address-Resolution-Protocol-(ARP).md",
-    "Assets/Pasted image 20241007105023.png",
-    "inbox/2024-10-07_Cross-over-Cables.md",
-    "inbox/2024-10-07_Internet-Control-Message-Protocal-(ICMP).md",
-    "Assets/Pasted image 20241007100746.png",
-    "inbox/2024-10-07_Straight-through-Cables.md",
-    "Assets/Pasted image 20241007100733.png",
-    "Assets/Pasted image 20241007100708.png",
-    "Assets/Pasted image 20241007100645.png",
-    "Untitled.md",
-    "inbox/2024-10-07_Cross-over-Cables.md~",
-    "Assets/Pasted image 20241007100433.png",
-    "inbox/2024-10-07_Digital-Signals.md",
-    "inbox/2024-10-07_Analog-Signals.md~",
-    "Assets/Pasted image 20241007094404.png",
-    "inbox/2024-10-07_Analog-Signals.md",
-    "Assets/Pasted image 20241007093457.png",
-    "Assets/Pasted image 20241007093249.png",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_Resolving DNS query.md",
-    "cladding.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_socket.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-06_Uniform resource locator (URL).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Cooper and fiber wires.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Demultiplexing.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Multiplexing.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Internet Protocol (IP).md",
-    "IPv4.md",
-    "NIC.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Logical link control (LLC).md",
-    "Assets/Pasted image 20240918133753.png",
-    "repeater.md",
-    "hubs/social.md",
-    "hubs/programming.md",
-    "hubs/self-development.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-02_Demarc.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Switches.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_physical bus topology.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Binary.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Ethernet.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Carrier Sense Multiple Access (CSMA).md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_2024-09-23_Media access control (MAC).md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_VoIP.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet-mask.md",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 3",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 2",
     "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals",
     "notes/JCU courses/CP1402 - Network Fundametals/Week 2",
     "notes/JCU courses/CP1402 - Network Fundametals/Week 3",
     "notes/JCU courses/CP1402 - Network Fundametals",
-    "inbox/2024-10-02_Demarc.md~",
-    "inbox/2024-10-06_Name servers.md~",
     "Untitled.canvas"
   ]
 }
