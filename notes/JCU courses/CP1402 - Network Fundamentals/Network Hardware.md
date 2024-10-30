@@ -12,10 +12,26 @@
 
 # Routers
 + A router manages network between two or more networks -> network bridge
-+ Connect LANs to internet (SOHO or small office-home office network)
++ Routers can do the following:
+    + Connect LANs and WANs to internet (SOHO or small office-home office network)
+    + Interpret Layer 3 & 4 addressing
+    + Calculate best path to get from A->B
+    + Reroute traffic if first choice is broken & another path is availale
+
++ Some of the optional functions:
+    + Filter broadcast transmission -> allow / prevent traffics 
+    + Monitor traffic - report statistics
+    + Diagnose problems - trigger alarms
+
++ Categories:
+    + Core / Interior routers - direct data between networks in same [[autonomous system (AS)]]
+    + Edge / Border routers - connect [[2024-10-28_autonomous system (AS)|autonomous system (AS)]] with outside network
+    + Exterior routers - refers to any routers outside [[2024-10-28_autonomous system (AS)|autonomous system (AS)]]
+
 + Difference routers - switches:
 	+ Router gateway between networks among many LANs
 	+ A switch belongs to only one LAN 
+![[Pasted image 20241028110648.png]]
 
 # MANs and WANs
 + WAN (wide area network) -> group of LANs spread far away

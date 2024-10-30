@@ -11,6 +11,7 @@ urls:
 
 # port number
 + A port -> assigned to a process that can receive data -> among all other processes running on the same device
+=> Purpose: Identify a service/app running on a system
 
 # Types of port
 + Well-known ports - 0 to 1023

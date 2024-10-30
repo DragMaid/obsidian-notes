@@ -55,3 +55,6 @@
 
 3. EFFECT
 ![[Pasted image 20241007203713.png]]
+
+# Tư duy specify
+![[Pasted image 20241017101117.png]]

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc0a487058738e7",
+        "id": "338a17df5c979d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6b6b3eb4097667",
+            "id": "b5b1c5c9b7bfca98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
+                "file": "notes/IELTS teaching/Speaking/6.0 - intensive/Cách học pattern.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cách học pattern"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 350.5
   },
   "right": {
     "id": "7b3781ef779c0212",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
+                "file": "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md",
+                "file": "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Template"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": false
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/IELTS teaching/Writing/Cách chấm bài.md"
-              }
+                "file": "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Template"
             }
           }
         ],
@@ -147,53 +163,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6b6b3eb4097667",
+  "active": "b5b1c5c9b7bfca98",
   "lastOpenFiles": [
-    "notes/IELTS teaching/Writing/6.5/Chấm bài 6.5.md",
-    "notes/IELTS teaching/Writing/6.5",
-    "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Linear Tools 6.0.md",
     "notes/IELTS teaching/Speaking/6.0 - intensive/Overview.md",
-    "notes/IELTS teaching/Speaking/6.0 - intensive",
-    "hubs/teaching.md",
-    "Assets/Pasted image 20241008180025.png",
-    "Assets/Pasted image 20241008180016.png",
-    "Assets/Pasted image 20241008180006.png",
-    "Assets/Pasted image 20241008175952.png",
-    "Assets/Pasted image 20241008175941.png",
-    "Assets/Pasted image 20241008175924.png",
-    "Assets/Pasted image 20241008175913.png",
-    "Assets/Pasted image 20241008175903.png",
-    "Assets/Pasted image 20241007204056.png",
-    "Assets/Pasted image 20241007203713.png",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Table of Content.md",
-    "inbox/2024-10-07_Straight-through-Cables.md",
-    "inbox/2024-10-07_Internet-Control-Message-Protocal-(ICMP).md",
-    "inbox/2024-10-07_Digital-Signals.md",
-    "inbox/2024-10-07_Cross-over-Cables.md",
-    "inbox/2024-10-07_Analog-Signals.md",
-    "inbox/2024-10-07_Address-Resolution-Protocol-(ARP).md",
-    "inbox",
-    "notes/IELTS teaching/Writing/Cách chấm bài.md",
-    "notes/IELTS teaching/Speaking/Linear thinking.md",
-    "notes/IELTS teaching/Speaking/6.0 - intensive/Untitled",
-    "hubs/networking.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Physical transmissions.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-02_Demarc.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Switches.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_physical bus topology.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-27_Binary.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Ethernet.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_Carrier Sense Multiple Access (CSMA).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-26_2024-09-23_Media access control (MAC).md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_VoIP.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Template.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Untitled.md",
+    "notes/IELTS teaching/Writing/6.5/Task 2/outline task 2 level 6.5.md",
+    "notes/IELTS teaching/Writing/6.5/Task 1/Demo.md",
+    "notes/IELTS teaching/Writing/6.0",
+    "notes/IELTS teaching/Writing/6.5/Task 1/Language 6.5 task 1.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Cách học pattern.md",
+    "notes/IELTS teaching/Speaking/6.0 - intensive/Cách chấm Speaking part 2.md",
+    "notes/IELTS teaching/Speaking/6.5/part 1.md",
+    "Assets/Pasted image 20241028213330.png",
+    "notes/IELTS teaching/Writing/5.0/Writing Task 2/Template.md",
+    "notes/IELTS teaching/Writing/5.0/Writing Task 2/Outline for assignment structure.md",
+    "notes/IELTS teaching/Writing/6.5/Task 1/Template.md",
+    "notes/IELTS teaching/Writing/5.0/Build a sentence/Template.md",
+    "notes/IELTS teaching/Writing/5.0/Writing Task 2",
+    "notes/IELTS teaching/Writing/5.0/How to connect sentences.md",
+    "notes/IELTS teaching/Writing/5.0/How to always write correct sentence.md",
+    "notes/IELTS teaching/Writing/5.0",
+    "notes/IELTS teaching/Writing/5.0/Full assignment structure.md",
+    "notes/IELTS teaching/Writing/Tư duy simplify.md",
+    "inbox/2024-10-28_Subnetting.md",
+    "Assets/Pasted image 20241028165508.png",
+    "Assets/Pasted image 20241028165356.png",
     "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet-mask.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 3",
-    "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals/Week 2",
-    "notes/JCU courses/CP1402 - Network Fundamentals/CP1402 - Network Fundametals",
-    "notes/JCU courses/CP1402 - Network Fundametals/Week 2",
-    "notes/JCU courses/CP1402 - Network Fundametals/Week 3",
-    "notes/JCU courses/CP1402 - Network Fundametals",
+    "inbox/2024-10-28_Subnetting.md~",
+    "inbox/2024-10-28_Calculating subnet masks.md~",
+    "inbox/2024-10-28_Subnet Mask Tables.md~",
+    "inbox/2024-10-28_Subnet Mask Tables.md",
+    "inbox/2024-10-28_netowork host.md~",
+    "inbox/2024-10-28_netowork host.md",
+    "inbox/2024-10-28_Calculating subnet masks.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/4913",
+    "Assets/Pasted image 20241028163733.png",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet.md",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-09-25_subnet-mask.md~",
+    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-04_IPv4.md~",
+    "Assets/Pasted image 20241028163107.png",
+    "inbox/2024-10-28_Network-Segmentation.md",
+    "Assets/Pasted image 20241028162920.png",
+    "inbox/2024-10-28_Forward an IP Packet.md",
+    "Assets/Pasted image 20241028162432.png",
+    "Assets/Pasted image 20241028161409.png",
+    "Assets/Pasted image 20241028160945.png",
+    "Assets/Pasted image 20241028160931.png",
     "Untitled.canvas"
   ]
 }
