@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bff66d3f6046f272",
+        "id": "9cd670325ca491a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f9af7fcc19fd146b",
+            "id": "d9926fff7a3ca5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
+                "file": "2025-06-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSI Module"
+              "title": "2025-06-14"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "1R Clas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 389.5
   },
   "right": {
     "id": "7b3781ef779c0212",
@@ -157,60 +158,60 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "f9af7fcc19fd146b",
+  "active": "d9926fff7a3ca5da",
   "lastOpenFiles": [
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_Bluetooth.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_ANT+.md",
-    "ad-hoc.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-04_IPv4.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/OSI Module.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/Table of Content.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-05_supernetting.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_IR standards.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_RFID and NFC.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_Signal Propagation.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_Wifi security and troubleshooting.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_Wireless-Network.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_WLAN Standards.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_ZigBee.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-11-11_Zwave.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Subnetting.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Subnet Mask Tables.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Routing Table.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Routing Protocols.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Routing Path Types.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Routing metrics.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_routing.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Network-Segmentation.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_netowork host.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Multilayer Switches.md",
-    "notes/JCU courses/CP1402 - Network Fundamentals/2024-10-28_Interior Gateway Protocol (IGP).md",
-    "Assets/Pasted image 20241204181500.png",
-    "Assets/Pasted image 20241126155216.png",
-    "Assets/Pasted image 20241118104357.png",
-    "inbox/2024-11-18_Wireless-WAN.md~",
-    "Assets/Pasted image 20241118103835.png",
-    "Assets/Pasted image 20241118102526.png",
-    "Assets/Pasted image 20241118102301.png",
-    "inbox/2024-11-18_Cable Broadband.md~",
-    "Assets/Pasted image 20241118101142.png",
-    "inbox/2024-11-18_WAN-connectivity.md~",
-    "inbox/2024-11-18_Digital Subscriber Line (DSL).md~",
-    "inbox/2024-11-18_Dedicated Internet Access (DIA).md~",
-    "Assets/Pasted image 20241118094928.png",
-    "inbox/2024-11-18_Chanel or Data Service Unit (CSU-DSU).md~",
-    "inbox/2024-11-18_WAN-essentials.md~",
-    "Chanel or Data Service Unit (CSU",
-    "Channel or Data Service Unit (CSU",
-    "Channel/Data Service Unit (CSU",
-    "Assets/Pasted image 20241118094105.png",
-    "Assets/Pasted image 20241118093402.png",
-    "Untitled.canvas"
+    "zettelkasten/2025-06-02_B2C-business-models.md",
+    "zettelkasten/2025-06-02_Business-model-categories.md",
+    "zettelkasten/2025-06-02_Community provider.md",
+    "zettelkasten/2025-06-02_Competitive-advantage.md",
+    "zettelkasten/2025-06-02_Competitive-environment.md",
+    "zettelkasten/2025-06-02_Content provider.md",
+    "zettelkasten/2025-06-02_E-distributors.md",
+    "zettelkasten/2025-06-02_E-procurement.md",
+    "zettelkasten/2025-06-02_E-tailer.md",
+    "zettelkasten/2025-06-02_Exchanges.md",
+    "zettelkasten/2025-06-02_Industry consortium.md",
+    "zettelkasten/2025-06-02_Management-team.md",
+    "zettelkasten/2025-06-02_Market creator.md",
+    "zettelkasten/2025-06-02_Market-opportunity.md",
+    "zettelkasten/2025-06-02_Market-strategy.md",
+    "zettelkasten/2025-06-02_Organizational-development.md",
+    "zettelkasten/2025-06-02_Portal.md",
+    "zettelkasten/2025-06-02_Private industrial networks.md",
+    "zettelkasten/2025-06-02_Raising-capital.md",
+    "zettelkasten/2025-06-02_Revenue-model.md",
+    "zettelkasten/2025-06-02_Service provider.md",
+    "zettelkasten/2025-06-02_Transaction broker.md",
+    "zettelkasten/2025-06-02_Value-proposition.md",
+    "zettelkasten/2025-06-06_Assessment-1---July-1st.md",
+    "zettelkasten/2025-06-06_Assessment-1-Notes.md",
+    "zettelkasten/2025-06-06_Business-Outcomes.md",
+    "inbox/2025-06-15_Good-enough-Design.md~",
+    "inbox/2025-06-15_Box-7:-What's-most-important-thing-need-to-learn-first.md~",
+    "inbox/2025-06-15_Box-6:-Hypothesis.md~",
+    "inbox/2025-06-15_Box-5:-Solutions.md~",
+    "inbox/2025-06-15_Get-to-work.md~",
+    "Untitled.canvas",
+    "notes/JCU courses/CP3407 - Advanced Software Engineering",
+    "Assets/Pasted image 20250609184417.png",
+    "inbox/2025-06-09_1R Classification.md~",
+    "inbox/2025-06-09_Technques for Classification.md~",
+    "inbox/2025-06-09_Training & Testing.md~",
+    "inbox/2025-06-09_Classification Accuracy.md~",
+    "Assets/Pasted image 20250609182527.png",
+    "Assets/Pasted image 20250603105857.png",
+    "Assets/Pasted image 20250602170216.png",
+    "Assets/Pasted image 20250602165515.png",
+    "Assets/Pasted image 20250310202610.png",
+    "Assets/Pasted image 20250310202301.png",
+    "Assets/Pasted image 20250310190343.png",
+    "Assets/Pasted image 20250109143149.png",
+    "Assets/Pasted image 20250103150911.png"
   ]
 }

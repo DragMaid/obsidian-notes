@@ -1,11 +1,11 @@
 ---
-date: "2024-10-13"
-location: 
-    - JCU courses/CP1402 - Network Fundamentals
-hubs: 
-    - "[[Networking]]"
+date: 2024-10-13
+location:
+  - JCU courses/CP1402 - Network Fundamentals
+hubs:
+  - "[[networking]]"
 urls:
-    - 
+  - 
 ---
 
 # three-way handshake

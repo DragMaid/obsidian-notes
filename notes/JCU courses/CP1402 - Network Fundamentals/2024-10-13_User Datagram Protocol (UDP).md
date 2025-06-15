@@ -3,7 +3,7 @@ date: 2024-10-13
 location:
   - JCU courses/CP1402 - Network Fundamentals
 hubs:
-  - "[[Networking]]"
+  - "[[networking]]"
 urls:
   - https://www.rfc-editor.org/rfc/rfc768.html
 ---

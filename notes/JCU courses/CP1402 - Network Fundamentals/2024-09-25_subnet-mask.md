@@ -7,7 +7,7 @@ hubs:
 urls:
     - 
 ---
-
+q
 # subnet mask
 # Subnet mask definition
 > As the internet protocol (IP) cannot manage and define subnet itself

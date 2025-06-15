@@ -11,7 +11,7 @@ urls:
 # network infrastructure
 
 # Components of structured cabling
-+ ANSI/TIA-568 Commercial Building Wiring Standard
++ [ ] ANSI/TIA-568 Commercial Building Wiring Standard
 -> optimized way to install cables, maximize performance, minimize upkeep (maintenance fee)
 ![[Pasted image 20240925141424.png]]
 
